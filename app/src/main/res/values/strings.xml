@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MvvmStudy</string>
+    <string name="text_input_weight_hint">Peso</string>
+    <string name="text_input_height_hint">Altura</string>
+    <string name="bt_imc_calc_label">Calcular IMC</string>
+    <string name="height_empty_error">Digite um valor para altura</string>
+    <string name="weight_empty_error">Digite um valor para o peso</string>
+    <string name="wrong_result">Valores de entrada invalidos</string>
+    <string name="error_zero_value">Entrada deve ser maior que zero</string>
+</resources>
